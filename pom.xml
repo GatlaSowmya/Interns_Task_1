@@ -9,8 +9,8 @@
 
     <name>sowmya</name>
 <properties> 
-     <sonar.host.url> http://51.44.5.65:9000/ </sonar.host.url> 
-     <sonar.login> squ_1de603235c1431686d9acf7c0d9c1333256e0fc3 </sonar.login> 
+     <sonar.host.url> http://13.37.249.161:9000/ </sonar.host.url> 
+     <sonar.login> squ_a522fdde876ab97bfb926deef1008cb3e2d0ac67 </sonar.login> 
  </properties> 
        
     <dependencies>
