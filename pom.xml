@@ -10,7 +10,7 @@
     <name>sowmya</name>
 <properties> 
      <sonar.host.url> http://13.232.176.154:9000/ </sonar.host.url> 
-     <sonar.login> squ_698143def760cd50ea22bbc5e89dce6f9b09467a </sonar.login> 
+     <sonar.login> squ_2890814412a19525e9130be402f821b6455c71e0 </sonar.login> 
  </properties> 
        
     <dependencies>
