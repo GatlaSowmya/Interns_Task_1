@@ -8,6 +8,13 @@
     <packaging>war</packaging>
 
     <name>sowmya</name>
+    <description>Maven Web Project for Java Project</description>
+
+	<organization>
+		<name>Mithun Technologies</name>
+		<url>http://mithuntechnologies.com/</url>
+	</organization>
+    
 <properties> 
      <sonar.host.url> http://13.233.224.52:9000/ </sonar.host.url> 
      <sonar.login> squ_2890814412a19525e9130be402f821b6455c71e0 </sonar.login> 
