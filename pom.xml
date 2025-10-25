@@ -11,8 +11,8 @@
     <description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Welcom to Vcloudmaster</name>
-		<url>http://Vcloudmaster.com/</url>
+		<name>Welcom to Visys</name>
+		<url>http://visyscloudtech.com/</url>
 	</organization>
     
 <properties> 
@@ -86,4 +86,5 @@
     </build>
 
 </project>
+
 
