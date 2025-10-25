@@ -16,8 +16,8 @@
 	</organization>
     
 <properties> 
-     <sonar.host.url> http://13.126.227.181:9000/ </sonar.host.url> 
-     <sonar.login> squ_2890814412a19525e9130be402f821b6455c71e0 </sonar.login> 
+     <sonar.host.url> http://192.168.0.157:9000/ </sonar.host.url> 
+     <sonar.login> squ_dfcc5d1d5e42202de93dd43d7bfad3fd10fa1686 </sonar.login> 
  </properties> 
        
     <dependencies>
@@ -86,3 +86,4 @@
     </build>
 
 </project>
+
